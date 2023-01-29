@@ -1,1 +1,2 @@
 This is now chapter 2.
+Added branch: this is the added text for chapter2.
